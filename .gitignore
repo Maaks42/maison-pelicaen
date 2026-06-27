@@ -1,0 +1,7 @@
+# Local-only working files — not for the public repo
+index.html.backup-pre-shopify
+SHOPIFY-INTEGRATION.md
+shopify-products-import.csv
+
+# macOS
+.DS_Store
