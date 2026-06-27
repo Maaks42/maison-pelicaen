@@ -5,3 +5,4 @@ shopify-products-import.csv
 
 # macOS
 .DS_Store
+index.html.backup-*
